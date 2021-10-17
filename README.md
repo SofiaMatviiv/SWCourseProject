@@ -1,0 +1,2 @@
+# SWCourseProject
+Trading company
